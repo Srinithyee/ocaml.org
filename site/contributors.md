@@ -30,7 +30,7 @@ Hosting
       <h2 class="lead"style="text-align: center;">IBM: PowerPC (POWER8/9) machines</h2>
     </div>
     <div class="span6">
-      <p style="text-align: center;"><img width="300" height="100" src="/img/rackspace_300x109.jpg" alt="Rackspace"></p>
+      <p style="text-align: center;"><img width="300" src="/img/rackspace_300x109.jpg" alt="Rackspace"></p>
       <h2 class="lead"style="text-align: center;">Provided hosting from 2012 to 2020</h2>
     </div>
   </div>
